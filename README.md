@@ -1,5 +1,13 @@
 # 🌙 Clustering Inteligente com KMeans, DBSCAN e Hierárquico
-
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/)
+[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![K-Means](https://img.shields.io/badge/K--Means-blue?style=for-the-badge&logo=appveyor&logoColor=white)](https://scikit-learn.org/stable/modules/clustering.html#k-means)
+[![DBSCAN](https://img.shields.io/badge/DBSCAN-red?style=for-the-badge&logo=appveyor&logoColor=white)](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
+[![Agglomerative](https://img.shields.io/badge/Agglomerative-green?style=for-the-badge&logo=appveyor&logoColor=white)](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
 > Um experimento visual e interativo com algoritmos de agrupamento usando dados não lineares em forma de lua 🌕
 
 ---
@@ -59,46 +67,6 @@ O DBSCAN se destaca por identificar clusters de diferentes formas e densidades, 
 - Compreensão das **diferenças fundamentais** entre agrupamentos particionais, hierárquicos e baseados em densidade.
 - **Visualização clara** de como diferentes modelos lidam com a complexidade de dados não lineares e com ruído.
 - Critérios para **escolher o algoritmo** mais adequado com base na forma e densidade dos seus dados.
-
----
-
-### 📦 Instalação
-
-Para rodar este projeto localmente, siga estes passos:
-
-1.  Clone o repositório:
-
-    ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-    cd seu-repositorio
-    ```
-
-2.  Instale as dependências. Certifique-se de que o `kaleido` esteja incluído para salvar os gráficos como imagem:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-    (Crie um arquivo `requirements.txt` com: `pandas`, `numpy`, `scikit-learn`, `plotly`, `kaleido`)
-
-3.  Execute o notebook Jupyter para gerar os gráficos e os resultados:
-
-    ```bash
-    jupyter notebook clustering_algorithms.ipynb
-    ```
-
----
-
-### 🧰 Tecnologias & Bibliotecas
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/)
-[![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![K-Means](https://img.shields.io/badge/K--Means-blue?style=for-the-badge&logo=appveyor&logoColor=white)](https://scikit-learn.org/stable/modules/clustering.html#k-means)
-[![DBSCAN](https://img.shields.io/badge/DBSCAN-red?style=for-the-badge&logo=appveyor&logoColor=white)](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
-[![Agglomerative](https://img.shields.io/badge/Agglomerative-green?style=for-the-badge&logo=appveyor&logoColor=white)](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
 
 ---
 
